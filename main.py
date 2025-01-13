@@ -99,3 +99,4 @@ user_input.bind("<KeyRelease>", lambda event: [check_typing(event), update_keybo
 
 # Start the GUI event loop
 root.mainloop()
+# 123
