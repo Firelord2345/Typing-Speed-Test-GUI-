@@ -64,6 +64,9 @@ After completing the sentence, the results are displayed as:
 - **WPM**: Words per minute based on your typing speed.
 - **Accuracy**: The percentage of correctly typed characters compared to the target text.
 
+![Screenshot 2025-01-13 205038](https://github.com/user-attachments/assets/08d50a11-f55c-4b9c-8ac5-070365923f66)
+
+
 ## Example
 
 ```plaintext
